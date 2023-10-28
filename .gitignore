@@ -26,3 +26,4 @@ Makefile
 *.ort
 onnxruntime*.tar.gz
 ThirdParty/onnxruntime
+.direnv
